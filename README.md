@@ -21,7 +21,7 @@ cd TROOP
 
 bash install.sh
 
-python2 TROOP.py
+python2 troop.py
 
 
 
