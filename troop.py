@@ -37,37 +37,37 @@ loop = True
 
 while loop:
     menu()
-    stark = raw_input("stark > ")
+    Troop = raw_input("troop > ")
 
-    if stark == "1":
+    if troop == "1":
           os.system("clear")
           BasicC()
-    elif stark == "2":
+    elif troop == "2":
           os.system("clear")
           AccountH()
-    elif stark == "3":
+    elif troop == "3":
           os.system("clear")
           WebH()
-    elif stark == "4":
+    elif troop == "4":
           os.system("clear")
           HASH()
-    elif stark == "5":
+    elif troop == "5":
           os.system("clear")
           Termux()
-    elif stark == "6":
+    elif troop == "6":
           EFixer()
-    elif stark == "7":
+    elif troop == "7":
           Credits()
-    elif stark == "8":
+    elif troop == "8":
          os.system("clear")
          follow()
-    elif stark == "9":
-	 os.system("cd modules/STARK2.0/ && python2 stark.py")
-    elif stark == "10":
+    elif troop == "9":
+	 os.system("cd modules/TROOP/ && python2 troop.py")
+    elif troop == "10":
         sys.exit()
-    elif stark == "0":
+    elif troop == "0":
           reset()
     else:
-                  print  (colored("ERROR: WRONG COMMAND BRO.?", 'red'))
+                  print  (colored("ERROR: WRONG COMMAND BROOO.?", 'red'))
                   timeout(2)
                   reset()
