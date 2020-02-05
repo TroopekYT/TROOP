@@ -17,11 +17,11 @@ like
 12. DDOS Attack
 13. website admin page finder
 
-cd STARK3.0
+cd TROOP
 
 bash install.sh
 
-python2 stark.py
+python2 TROOP.py
 
 IMAGES
 ![](sample.png)
