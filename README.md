@@ -23,8 +23,7 @@ bash install.sh
 
 python2 TROOP.py
 
-IMAGES
-![](sample.png)
+
 
 Credits
 1. SHELLPHISH =====> https://github.com/thelinuxchoice/shellphish
